@@ -2,7 +2,7 @@
 
 Monoalphabetic substitution cipher.
 
-## Algoritmos
+## Algorithm
 
 1. Normalize Text
 
